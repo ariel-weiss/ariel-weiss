@@ -1,8 +1,13 @@
+![Logo](https://github.com/ariel-weiss/game_of_life/blob/master/logo_rel.png)
+
 ### Hi there 👋
-I'm Ariel, C# Software Developer at M.E.S.
+I'm Ariel, Software Developer currently working at [M.E.S](https://mes-global.com/).
 <br>
-#### 📫 Don't hesitate to leave a massage:
-relweiss111@gmail.com
+#### 📫 Don't hesitate to leave a massage: relweiss111@gmail.com
+
+
+
+
 <!--
 **ariel-weiss/ariel-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
