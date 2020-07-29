@@ -1,4 +1,4 @@
-![Logo](https://github.com/ariel-weiss/game_of_life/blob/master/logo_rel.png)
+![Logo](https://github.com/ariel-weiss/ariel-weiss/blob/master/logo_rel.png)
 
 ### Hi there 👋
 I'm Ariel, Software Developer currently working at [M.E.S](https://mes-global.com/).
