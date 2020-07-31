@@ -1,4 +1,4 @@
-![Logo](https://github.com/ariel-weiss/ariel-weiss/blob/master/logo_rel.png)
+<img src="https://github.com/ariel-weiss/ariel-weiss/blob/master/logo_rel.png" width=90%>
 
 ### Hi there 👋
 I'm Ariel, Software Developer currently working at [M.E.S](https://mes-global.com/).
