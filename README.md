@@ -1,19 +1,15 @@
 <p align="center">
 <img  src="https://github.com/ariel-weiss/ariel-weiss/blob/master/logo_rel.png" width=90%>
-
+</p>
 
 <h3 align="center"> Hi there 👋 </h3>
 
 
----
-
 I'm Ariel, Software Developer currently working at [M.E.S](https://mes-global.com/).
 
-<br>
+##### 📫 Don't hesitate to leave a massage: relweiss111@gmail.com
 
-#### 📫 Don't hesitate to leave a massage: relweiss111@gmail.com
 
-</p>
 
 
 <!--
