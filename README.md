@@ -7,7 +7,7 @@
 
 I'm a Software Developer at [M.E.S](https://mes-global.com/).
 
-##### 📫 Don't hesitate to leave a massage: relweiss111@gmail.com
+##### 📫 Don't hesitate to leave a massage: ariel.we42@gmail.com
 
 
 
