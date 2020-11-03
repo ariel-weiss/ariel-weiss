@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="https://github.com/ariel-weiss/ariel-weiss/blob/master/logo_rel.png" width=90%>
+<img align='right' src="https://github.com/ariel-weiss/ariel-weiss/blob/master/Picture2.png" width=230>
 </p>
 
 <h3 align="center"> Hi there 👋 I'm Ariel </h3>
