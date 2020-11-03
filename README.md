@@ -16,7 +16,7 @@ I'm a software engineer at [M.E.S](https://mes-global.com/), and turn coffee int
 ##### 📫 Don't hesitate to leave a massage: ariel.we42@gmail.com
 
 <p>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-weiss&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-weiss&layout=compact&hide_border=true&langs_count=10&hide=HTML,css">
 </p>
 
 
