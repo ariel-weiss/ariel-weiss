@@ -2,13 +2,13 @@
   
 ## Hi there 👋 I'm Ariel
 
-<img align='right' src="https://github.com/ariel-weiss/ariel-weiss/blob/master/Picture2.png" width=230>
+<img align='right' src="https://github.com/ariel-weiss/ariel-weiss/blob/master/Picture2.png" width=330>
 </p>
 
 
 
 
-I'm a Software Developer at [M.E.S](https://mes-global.com/).
+I'm a software engineer at [M.E.S](https://mes-global.com/), and turn coffee into code every day :coffee:
 
 ![Linkedin: ariel-weiss](https://img.shields.io/badge/-arielweiss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-weiss/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ariel-weiss)
