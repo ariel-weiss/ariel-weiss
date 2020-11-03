@@ -15,7 +15,7 @@ I'm a Software Developer at [M.E.S](https://mes-global.com/).
 
 ##### 📫 Don't hesitate to leave a massage: ariel.we42@gmail.com
 
-<p align="center">
+<p>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-weiss&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
 
