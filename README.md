@@ -8,7 +8,7 @@
 
 
 
-I'm a software engineer at [M.E.S](https://mes-global.com/), and turn coffee into code every day :coffee:
+I'm a software engineer at [M.E.S](https://mes-global.com/), Specializes in turning coffee into code :coffee:
 
 ![Linkedin: ariel-weiss](https://img.shields.io/badge/-arielweiss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-weiss/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ariel-weiss)
